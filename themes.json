@@ -1515,6 +1515,12 @@
     "FileName": "Earthworm.tmTheme",
     "Author": "Dave Tate",
     "Description": "Dark color scheme, low-contrast, natural tones."
+},
+{
+    "Title": "Caferia",
+    "FileName": "Caferia.tmTheme",
+    "Author": "Bryan Shin",
+    "Description": "As working in Cafe"
 }
 
 ]
